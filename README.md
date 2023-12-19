@@ -1,4 +1,7 @@
-### Hi there 👋
+### Mark SHulewitz
+## R&D Scientist & Bioinformatician
+
+🧑‍🔬
 
 <!--
 **mshulew/mshulew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
