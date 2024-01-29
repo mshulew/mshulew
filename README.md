@@ -1,8 +1,16 @@
-### Mark Shulewitz
+# Mark Shulewitz
 ## R&D Scientist & Bioinformatician
+### Some of my favorite things:
+[<img src="/images/Python.jpg"]
+[<img src="/images/docker.jpg"]
+[<img src="/images/nextflow.jpg"]
+[<img src="/images/R.jpg"]
+<br>
+<br>
+<br>
+<br>
 
-
-[<img src="/images/LinkedIn.jpg">](https://www.linkedin.com/in/markshulewitz/)
+[<img src="/images/LinkedIn.jpg" width="50" height="50">](https://www.linkedin.com/in/markshulewitz/)
 
 
 <!--
