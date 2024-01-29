@@ -1,7 +1,7 @@
-### Mark SHulewitz
+### Mark Shulewitz
 ## R&D Scientist & Bioinformatician
 
-🧑‍🔬
+[LinkedIn]("https://www.linkedin.com/in/markshulewitz/")
 
 <!--
 **mshulew/mshulew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
