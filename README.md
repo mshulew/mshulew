@@ -1,5 +1,11 @@
 # Mark Shulewitz
 ## R&D Scientist & Bioinformatician  
+
+- R&D bench scientist with expertise in antibody validation  
+- Bioinformatician with expertise in RNA-Seq
+
+This is where I keep all of the software that I write for me work.
+ 
 ### Bioinformatics:
 <img src="/images/bowtie.jpg" width="100"> <img src="/images/gatk.jpg" width="100"> STAR aligner
 <br><br><br>
