@@ -1,15 +1,12 @@
 # Mark Shulewitz
-## R&D Scientist & Bioinformatician
-### Some of my favorite things:
-[<img src="/images/Python.jpg"]
-[<img src="/images/docker.jpg"]
-[<img src="/images/nextflow.jpg"]
-[<img src="/images/R.jpg"]
-<br>
-<br>
-<br>
-<br>
-
+## R&D Scientist & Bioinformatician  
+### Bioinformatics:
+<img src="/images/bowtie.jpg" width="100"> <img src="/images/gatk.jpg" width="100"> STAR aligner
+<br><br><br>
+### Coding:  
+<img src="/images/Python.jpg" width="100"> <img src="/images/docker.jpg" width="100"> <img src="/images/nextflow.jpg" width="100">  <img src="/images/R.jpg" width="50">  
+<br> <br> <br>
+### I'm can also be found:  
 [<img src="/images/LinkedIn.jpg" width="50" height="50">](https://www.linkedin.com/in/markshulewitz/)
 
 
