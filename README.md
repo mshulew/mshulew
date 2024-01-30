@@ -1,7 +1,7 @@
 # Mark Shulewitz
 ## R&D Scientist & Bioinformatician  
 
-- R&D bench scientist with expertise in antibody validation  
+- R&D bench scientist with expertise in antibodies & immunoassays  
 - Bioinformatician with expertise in RNA-Seq
 
 This is where I keep all of the software that I write for me work.
